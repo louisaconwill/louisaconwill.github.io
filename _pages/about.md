@@ -13,7 +13,7 @@ My research areas fall within human-computer interaction (HCI) and technology et
 
 I believe in the value of drawing from the time-tested wisdom of our traditions to help determine which habits we should be designing for or avoiding. So far, my research has relied on virtue ethics and Catholic Social Teaching to inform such designs. On this topic, I co-authored the book [*Virtue in Virtual Spaces: Catholic Social Teaching and Technology*](https://litpress.org/Products/00269/Virtue-in-Virtual-Spaces) with Megan Levis and Walter Scheirer.
 
-I received an Sc.B. in computer science from Brown University in 2017. Before starting my gradute work at Notre Dame in 2021, I worked as a software engineer for Amazon Alexa and served as a campus missionary with [FOCUS](https://focus.org). Both of these experiences influenced the trajectory of my research today.
+I received an Sc.B. in computer science from Brown University in 2017. Before starting my graduate work at Notre Dame in 2021, I worked as a software engineer for Amazon Alexa and served as a campus missionary with [FOCUS](https://focus.org). Both of these experiences influenced the trajectory of my research today.
 
 
 Personal
