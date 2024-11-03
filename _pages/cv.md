@@ -5,6 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-redirect_to: /files/CV.pdf
+redirect_to: /assets/pdf/CV.pdf
 ---
 
