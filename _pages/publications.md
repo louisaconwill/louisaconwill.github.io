@@ -19,3 +19,8 @@ Liturgical Press<br/>
 *Louisa Conwill*, Sam English Anthony, and Walter J. Scheirer<br/>
 CHI EA 2024: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems<br/>
 [Open Access Preprint](https://arxiv.org/pdf/2303.00612)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Video](https://www.youtube.com/watch?v=IZ0CZunHf7I)
+
+## Periodicals ##
+[**Virtue in Virtual Spaces: Catholic Social Teaching as an Alternative**](https://churchlifejournal.nd.edu/articles/catholic-social-teaching-as-an-alternative-to-both-luddism-and-techno-optimism/)<br/>
+*Louisa Conwill*<br/>
+Church Life Journal
