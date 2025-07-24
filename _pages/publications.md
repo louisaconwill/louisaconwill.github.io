@@ -15,6 +15,13 @@ author_profile: true
 Liturgical Press<br/>
 
 ## Conference Papers ##
+[**A Comprehensive Evaluation Framework for the Study of the Effects of Facial Filters on Face Recognition Accuracy**](https://arxiv.org/abs/2507.17729)
+<br/>
+Kagan Ozturk\*, *Louisa Conwill*\*, Jacob Gutierrez, Kevin Bowyer, and Walter J. Scheirer<br/>
+*To appear in* Proceedings of the International Joint Conference on Biometrics (IJCB 2025)<br/>
+[Open Access Preprint](https://arxiv.org/pdf/2507.17729)<br/>
+\*Indicates equal contribtuion
+
 [**Design Patterns for the Common Good: Building Better Technologies Using the Wisdom of Virtue Ethics**](https://dl.acm.org/doi/10.1145/3706598.3713546)<br/>
 *Louisa Conwill*, Megan K. Levis, Karla Badillo-Urquiola, and Walter J. Scheirer<br/>
 Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)<br/>
