@@ -18,4 +18,4 @@ I received an Sc.B. in computer science from Brown University in 2017. Before st
 
 Personal
 ======
-Outside of the lab, I sing sacred music with the [Notre Dame Magnificat Choir](https://www.youtube.com/@notredamemagnificatchoir). My favorite music includes both Gregorian chant and Taylor Swift. I grew up in Tokyo and love practicing my Japanese (though recently, "practicing" has been limited to Duolingo and watching Japanese videos). I used to be a runner, but barre has become my preferred workout since starting my PhD. I love to travel and explore new places, and I'm grateful to have traveled to London, Mumbai, Hawaii, Mexico City, Guadalajara, and Yokohama in connection with my graduate studies.
+Outside of the lab, I sing sacred music with the [Notre Dame Magnificat Choir](https://www.youtube.com/@notredamemagnificatchoir). My favorite music includes both Gregorian chant and Taylor Swift. I grew up in Tokyo and love practicing my Japanese (though recently, "practicing" has been limited to Duolingo and watching Japanese videos). I used to be a runner, but barre has become my preferred workout since starting my PhD.
