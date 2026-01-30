@@ -14,11 +14,11 @@ author_profile: true
 *Louisa Conwill*, Megan Levis, and Walter J. Scheirer<br/>
 Liturgical Press<br/>
 
-## Conference Papers ##
+## Major Peer-Reviewed Conference Papers (Computer Science) ##
 [**A Comprehensive Evaluation Framework for the Study of the Effects of Facial Filters on Face Recognition Accuracy**](https://arxiv.org/abs/2507.17729)
 <br/>
 Kagan Ozturk\*, *Louisa Conwill*\*, Jacob Gutierrez, Kevin Bowyer, and Walter J. Scheirer<br/>
-*To appear in* Proceedings of the International Joint Conference on Biometrics (IJCB 2025)<br/>
+Proceedings of the International Joint Conference on Biometrics (IJCB 2025)<br/>
 [Open Access Preprint](https://arxiv.org/pdf/2507.17729)<br/>
 \*Indicates equal contribtuion
 
@@ -27,6 +27,8 @@ Kagan Ozturk\*, *Louisa Conwill*\*, Jacob Gutierrez, Kevin Bowyer, and Walter J.
 Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)<br/>
 [Open Access Publication](https://dl.acm.org/doi/pdf/10.1145/3706598.3713546)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Video](https://www.youtube.com/watch?v=tnZ_rS8iZvc)
 
+
+## Minor Lightly-Reviewed Posters, Extended Abstracts, and Workshop Papers (Computer Science) ##
 [**Has the Virtualization of the Face Changed Facial Perception? A Study of the Impact of Photo Editing and Augmented Reality on Facial Perception**](https://dl.acm.org/doi/abs/10.1145/3613905.3650989)<br/>
 *Louisa Conwill*, Sam English Anthony, and Walter J. Scheirer<br/>
 Extended Abstracts of the ACM CHI Conference on Human Factors in Computing Systems (CHI Late-Breaking Work 2024)<br/>
