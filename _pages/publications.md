@@ -15,6 +15,11 @@ author_profile: true
 Liturgical Press<br/>
 
 ## Major Peer-Reviewed Conference Papers (Computer Science) ##
+**Do We Need Subsidiarity in Software?**<br/>
+*Louisa Conwill*, Megan Levis Scheirer, and Walter J. Scheirer<br/>
+*To appear in* Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026)<br/>
+[Open Access Preprint](https://arxiv.org/pdf/2509.13466)<br/>
+
 [**A Comprehensive Evaluation Framework for the Study of the Effects of Facial Filters on Face Recognition Accuracy**](https://arxiv.org/abs/2507.17729)
 <br/>
 Kagan Ozturk\*, *Louisa Conwill*\*, Jacob Gutierrez, Kevin Bowyer, and Walter J. Scheirer<br/>
