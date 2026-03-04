@@ -20,10 +20,10 @@ Liturgical Press<br/>
 *To appear in* Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026)<br/>
 [Open Access Preprint](https://arxiv.org/pdf/2509.13466)<br/>
 
-[**A Comprehensive Evaluation Framework for the Study of the Effects of Facial Filters on Face Recognition Accuracy**](https://arxiv.org/abs/2507.17729)
+[**A Comprehensive Evaluation Framework for the Study of the Effects of Facial Filters on Face Recognition Accuracy**](https://ieeexplore.ieee.org/document/11411177)
 <br/>
 Kagan Ozturk\*, *Louisa Conwill*\*, Jacob Gutierrez, Kevin Bowyer, and Walter J. Scheirer<br/>
-Proceedings of the International Joint Conference on Biometrics (IJCB 2025)<br/>
+2025 IEEE International Joint Conference on Biometrics (IJCB 2025)<br/>
 [Open Access Preprint](https://arxiv.org/pdf/2507.17729)<br/>
 \*Indicates equal contribtuion
 
