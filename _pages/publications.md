@@ -19,6 +19,7 @@ Liturgical Press<br/>
 *Louisa Conwill*, Megan Levis Scheirer, and Walter J. Scheirer<br/>
 *To appear in* Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026)<br/>
 [Open Access Preprint](https://arxiv.org/pdf/2509.13466)<br/>
+🏅 **Best Paper Honorable Mention Award** (Top 5%)
 
 [**A Comprehensive Evaluation Framework for the Study of the Effects of Facial Filters on Face Recognition Accuracy**](https://ieeexplore.ieee.org/document/11411177)
 <br/>
