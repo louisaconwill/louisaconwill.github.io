@@ -13,6 +13,7 @@ author_profile: true
 [**Virtue in Virtual Spaces: Catholic Social Teaching and Technology**](https://litpress.org/Products/00269/Virtue-in-Virtual-Spaces?srsltid=AfmBOorkGtihv_1jiAlEfW3Sw3gDhbpPP0lPdZ7CiabminLZ8wmtfKMZ)<br/>
 *Louisa Conwill*, Megan Levis, and Walter J. Scheirer<br/>
 Liturgical Press<br/>
+🥈 **2025 Catholic Media Association Second Place Award** (Categories: Catholic Social Teaching, Pastoral Ministry -- Parish Life)<br/>
 
 ## Major Peer-Reviewed Conference Papers (Computer Science) ##
 **Do We Need Subsidiarity in Software?**<br/>
