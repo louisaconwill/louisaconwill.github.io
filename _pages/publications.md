@@ -16,10 +16,10 @@ Liturgical Press<br/>
 🥈 **2025 Catholic Media Association Second Place Award** (Categories: Catholic Social Teaching, Pastoral Ministry -- Parish Life)<br/>
 
 ## Major Peer-Reviewed Conference Papers (Computer Science) ##
-**Do We Need Subsidiarity in Software?**<br/>
+[**Do We Need Subsidiarity in Software?**](https://dl.acm.org/doi/full/10.1145/3772318.3791098)<br/>
 *Louisa Conwill*, Megan Levis Scheirer, and Walter J. Scheirer<br/>
 *To appear in* Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026)<br/>
-[Open Access Preprint](https://arxiv.org/pdf/2509.13466)<br/>
+[Open Access Publication](https://dl.acm.org/doi/full/10.1145/3772318.3791098)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Video](https://www.youtube.com/watch?v=ASYtr7zkJzs)<br/>
 🏅 **Best Paper Honorable Mention Award** (Top 5%)
 
 [**A Comprehensive Evaluation Framework for the Study of the Effects of Facial Filters on Face Recognition Accuracy**](https://ieeexplore.ieee.org/document/11411177)
