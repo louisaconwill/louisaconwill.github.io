@@ -18,7 +18,7 @@ Liturgical Press<br/>
 ## Major Peer-Reviewed Conference Papers (Computer Science) ##
 [**Do We Need Subsidiarity in Software?**](https://dl.acm.org/doi/full/10.1145/3772318.3791098)<br/>
 *Louisa Conwill*, Megan Levis Scheirer, and Walter J. Scheirer<br/>
-*To appear in* Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026)<br/>
+Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026)<br/>
 [Open Access Publication](https://dl.acm.org/doi/full/10.1145/3772318.3791098)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Video](https://www.youtube.com/watch?v=ASYtr7zkJzs)<br/>
 🏅 **Best Paper Honorable Mention Award** (Top 5%)
 
