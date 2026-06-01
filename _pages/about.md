@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in computer science and engineering at the University of Notre Dame, advised by [Walter Scheirer](https://www.wjscheirer.com).
+I am a final-year PhD candidate in computer science and engineering at the University of Notre Dame, advised by [Walter Scheirer](https://www.wjscheirer.com).
 
 My research falls within the areas of human-computer interaction (HCI) and technology ethics. I am interested in how the designs of technologies encourage or discourage us from taking actions that lead to a good life, and how we can redesign technology to promote positive habits.
 
