@@ -36,6 +36,11 @@ Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI
 
 
 ## Minor Lightly-Reviewed Posters, Extended Abstracts, and Workshop Papers (Computer Science) ##
+[**The Capacity to Care: Designing Social Technology for Sustained Engagement With Societal Challenges**](https://dl.acm.org/doi/10.1145/3785651.3816117)<br/>
+JaeWon Kim, Lindsay Popowski, *Louisa Conwill*\*, Elizabeth “Lizzie” Li\*, Meryl Ye\*, Jiaying “Lizzy” Liu, Jose A. Guridi, Theia Henderson, Bingxu Han, Dennis Wang, Angel Hsing-Chi Hwang, Susan Wyche, Yasmine Kotturi, Gillian R. Hayes, Angela D. R. Smith<br/>
+CSCW Companion '26: Proceedings of the 2026 Companion of the Computer-Supported Cooperative Work and Social Computing<br/>
+[Open Access Publication](https://dl.acm.org/doi/pdf/10.1145/3785651.3816117)
+
 [**Has the Virtualization of the Face Changed Facial Perception? A Study of the Impact of Photo Editing and Augmented Reality on Facial Perception**](https://dl.acm.org/doi/abs/10.1145/3613905.3650989)<br/>
 *Louisa Conwill*, Sam English Anthony, and Walter J. Scheirer<br/>
 Extended Abstracts of the ACM CHI Conference on Human Factors in Computing Systems (CHI Late-Breaking Work 2024)<br/>
